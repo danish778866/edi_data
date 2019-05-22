@@ -20,7 +20,7 @@ The organization of this repository is as follows:
 * `data`: The scraped EDI data. Since this is big file, it has been split into
   chunks that can be combined.
 
-## Staistics
+## Statistics
 1. **Number of packages:** _6219_.
 2. **Number of CSV files across all packages:** _26977_.
 3. **Total size of data:** _70GB_.
